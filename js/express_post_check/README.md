@@ -1,6 +1,6 @@
 # Intend
 
-checking express.js bodyParser(using json,urlencoded) gives the POST empty value as undefine or null
+checking express.js bodyParser to determine if gives the POST empty value as undefine or null
 
 ### input
 
