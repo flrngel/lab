@@ -1,0 +1,9 @@
+{
+  "name": "express_post_check",
+  "version": "0.0.1",
+  "author": "flrngel",
+  "devDependencies": {
+    "express": "^4.1.0",
+    "body-parser": "^1.0.2"
+  }
+}
