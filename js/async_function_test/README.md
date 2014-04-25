@@ -1,6 +1,6 @@
 # Intend
 
-is async functions runs sequentially?
+is same function inside async functions, runs sequentially?
 
 # Result
 
