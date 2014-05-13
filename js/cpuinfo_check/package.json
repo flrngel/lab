@@ -1,0 +1,9 @@
+{
+  "name": "cpuinfo_check",
+  "version": "0.0.0",
+  "description": "cpuinfo check",
+  "main": "index.js",
+  "devDependencies": {
+    "cpuid": "^0.1.2"
+  }
+}
