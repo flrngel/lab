@@ -1,6 +1,6 @@
 # mysql vs redis GET MULTIPLE KEYS performance test
 
-10m(10,000,000) rows(see `mysql-insert.php`, `redis-insert.rb`)
+select 1m random rows from 10m(10,000,000) rows(see `mysql-insert.php`, `redis-insert.rb`)
 
 mysql used innodb
 
