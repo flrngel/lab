@@ -52,3 +52,7 @@ mysql used innodb
 - result could be change by setting.
 
 - do not use `one-by-one` queries
+
+## appended
+
+- use lua
